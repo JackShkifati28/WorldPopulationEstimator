@@ -1,4 +1,4 @@
-# WorldPopulationEstimator
+# World Population Estimator
 
 ## Description
 This program utilizes a text file with data ranges of the world populations corresponding to their respective years. To process this data, we first declare two arrays, one for the years and another for the world population. Arrays are useful here as they can store a fixed-size collection of elements of the same data type, allowing us to segregate years and world population data.
